@@ -25,4 +25,8 @@ layout normal
 endlayout
 ````
 
+line wall
+endwall
 
+area water
+endarea
